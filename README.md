@@ -1,2 +1,2 @@
 # Design-of-a-Faster-Digitizer-for-TMR-Angle-Sensor
-The repository contains my work in guidance of Prof. Kishor B. Nandapurkar of IIT Roorkee. 
+The repository contains my work under the guidance of Prof. Kishor B. Nandapurkar of IIT Roorkee. We used a modified, faster dual-slope technique for digitization and ensured that the circuit remains unaffected by lead wire resistances of the remotely located sensor. The circuit was tested in simulation environments such as Proteus and LTspice, on a breadboard, and on a PCB. We evaluated the circuit's performance and achieved a maximum full-scale non-linearity of only 0.052% in the digitizer circuit.
